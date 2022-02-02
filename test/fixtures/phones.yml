@@ -1,11 +1,16 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  number: MyString
-  type: 
+  number: '1234567890'
+  type: 'house'
   main: false
 
 two:
-  number: MyString
-  type: 
-  main: false
+  number: '0987654321'
+  type: 'work'
+  main: true
+
+three:
+  number: abcde
+  type: 2
+  main: 

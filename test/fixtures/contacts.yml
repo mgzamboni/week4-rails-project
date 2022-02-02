@@ -1,9 +1,13 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  name: MyString
+  name: User 1
   birthday: 2022-02-01
 
 two:
-  name: MyString
-  birthday: 2022-02-01
+  name: user 2
+  birthday: 
+
+three:
+  name: 
+  birthday: 2022-02
